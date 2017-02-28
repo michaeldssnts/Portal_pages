@@ -179,7 +179,7 @@ She has worked and lived in Latin America, Asia, and Africa. In addition to fina
   <br> <br>
 Nkosi started his career at Standard Chartered Bank. After working for various financial institutions, he moved to the telecoms industry as a founding executive of EcoCash in Zimbabwe. From there, he moved to Telecel where he developed Telecash - one of the first mobile money solutions to integrate to a national banking switch, Zimswitch. He left the position of Telecel's Chief Commercial Officer to join i2i. Nkosi holds a Bachelor of Business Studies degree from the University of Zimbabwe and an MBA.</p>
 		  
-	          <img data-info="Application Lab" src="images/NKOSI.jpg" alt="" />
+	          <img data-info="Application Lab, Head" src="images/NKOSI.jpg" alt="" />
 		    </div>
 		
 	    
@@ -194,7 +194,7 @@ Before joining i2i, Abenaa established and managed a consulting company based in
 	      
 	  </p>
 		  
-	          <img data-info="Client Insights" src="images/abeena.jpg" alt="" />
+	          <img data-info="Client Insights, Head" src="images/abeena.jpg" alt="" />
 		    </div>
 	    
 	    
@@ -217,7 +217,7 @@ Before joining i2i, Abenaa established and managed a consulting company based in
            <p>After a rewarding and diverse career in retail financial services, with involvement in most aspects of this industry, I continue to enjoy new challenges and has the ability to bring my experience, insight and knowledge to bear on situations and organisations requiring leadership and forward-looking change.
 Following a successful career in retail financial services I have spent five years assisting the South African National Treasury in objectively assessing the state of financial service access and usage in South Africa, identifying areas of concern and developing policy responses and interventions. During this time I represented South Africa in international financial inclusion forums and actively helped develop the global knowledge base to assist countries in developing their financial inclusion strategies.</p>
 		  
-	          <img data-info="Measurement" src="images/releof.jpg" alt="" />
+	          <img data-info="Measurement, Head" src="images/releof.jpg" alt="" />
 		    </div>
 	    
 	    
@@ -268,7 +268,7 @@ Following a successful career in retail financial services I have spent five yea
  
 	  </p>
 		  
-            <img data-info="PARTNERSHIP MANAGER" src="images/mari_lisa.jpg" alt="" />
+            <img data-info="Partnership Manager" src="images/mari_lisa.jpg" alt="" />
 		    </div> 
 		    
 		    
@@ -312,7 +312,7 @@ Following a successful career in retail financial services I have spent five yea
 
 	  </p>
 		  
-            <img data-info="Application Lab" src="images/dumi.jpg" alt="" />
+            <img data-info="Application Lab" src="images/dumi.jpg" alt="Dumisani Dube" />
 		    </div> 
 		    
 		    
@@ -327,7 +327,7 @@ Following a successful career in retail financial services I have spent five yea
  
 	  </p>
 		  
-            <img data-info="Client Insights" src="images/Michiel.jpg" alt="" />
+            <img data-info="Client Insights" src="images/Michiel.jpg" alt="Michiel Wolvers" />
 		    </div> 
 	    
 	    
@@ -341,7 +341,7 @@ Following a successful career in retail financial services I have spent five yea
 
 	  </p>
 		  
-            <img data-info="Client Insights" src="images/Renee.jpg" alt="" />
+            <img data-info="Client Insights" src="images/Renee.jpg" alt="Renée Hunter" />
 		    </div> 
 	    
 	    
@@ -355,7 +355,7 @@ Following a successful career in retail financial services I have spent five yea
 
 	  </p>
 		  
-            <img data-info="Data4FI" src="images/bobby.jpg" alt="" />
+            <img data-info="Data4FI" src="images/bobby.jpg" alt="Bobby Berkowitz" />
 		    </div> 
 	    
 	    
@@ -366,7 +366,7 @@ Following a successful career in retail financial services I have spent five yea
 
 	  </p>
 		  
-            <img data-info="Data4FI" src="images/Damola.jpg" alt="" />
+            <img data-info="Data4FI" src="images/Damola.jpg" alt="Damola Owolade" />
 		    </div> 
 	    
 	   
@@ -380,7 +380,7 @@ Following a successful career in retail financial services I have spent five yea
 
 	  </p>
 		  
-            <img data-info="Data4FI" src="images/David_taylor.jpg" alt="" />
+            <img data-info="Data4FI" src="images/David_taylor.jpg" alt="David Taylor" />
 		    </div> 
 	     
 	    
@@ -391,7 +391,7 @@ Following a successful career in retail financial services I have spent five yea
 
 	  </p>
 		  
-            <img data-info="Data4FI" src="images/amanda.jpg" alt="" />
+            <img  src="images/amanda.jpg" alt="Amanda Schoeman" />
 		    </div> 
 	    
 	    
