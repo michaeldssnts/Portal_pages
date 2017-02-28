@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Community</title>
+<title>i2i Community</title>
 <!-- <link href="css/bootstrap-3.3.5.css" rel="stylesheet" type="text/css"> -->
 <link href="css/bootstrap-3.3.7.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="css/slider.css">
@@ -22,7 +22,12 @@
 <body>
 	<div class="container">
 	
+	
+	
+	  <!-- Community row  -->
   <div class="row">
+  
+  <!-- Expert Database  -->
 	  <div class="col-lg-6" style="padding: 15px; -webkit-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65);
 -moz-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65);
 box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65); ">
@@ -30,9 +35,15 @@ box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65); ">
 		  <h2>Experts Database</h2>
 		  <p>Find an Expert Database, is where you can find Companies and Individuals in the area of data for financial inclusion.</p>
 	  
-	  	    <a href="http://i2ifacility.org/portal/Expert/" target="_blank"> Read more </a> 
+  	    
+	  	    <a href="http://i2ifacility.org/portal/Expert/" target="_blank"> Read more </a>
+	  	    
+	  	      
 	  	    </div>
-	  
+	  	    
+	<!-- Expert Database end  -->	    
+	  	    
+	  <!-- Datahack4FI -->
 	  <div class="col-lg-6" style="padding: 15px; -webkit-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65);
 -moz-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65);
 box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65); ">
@@ -41,12 +52,16 @@ box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65); ">
 		  <p>There are eight country-level competitions. Winners from each of these will be selected to join the ultimate DataHack4FI competition 2017. </p>
 		  
       <a href="http://datahack4fi.org/" target="_blank"> Read more </a> </div>
-      
+         <!-- Datahack4FI end -->
       
   </div>
+   <!-- Community row end -->
   
   
+    <!-- New community row -->
     <div class="row">
+     
+     <!-- Datahack4FI end -->
 	  <div class="col-lg-6" style="padding: 15px;-webkit-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65);
 -moz-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65);
 box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65); ">
@@ -68,6 +83,7 @@ box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65); ">
 	
 	  </div>
   </div>
+   <!-- New community row END -->
   
   
   
