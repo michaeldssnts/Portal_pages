@@ -4,7 +4,7 @@ These are the static pages of the i2i website they are as follows;
 
 About us Page
 
-Background
+- Background
 - About us
 - Where i2i works
 - Vision and mission
