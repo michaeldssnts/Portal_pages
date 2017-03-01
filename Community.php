@@ -8,23 +8,31 @@
 <!-- <link href="css/bootstrap-3.3.5.css" rel="stylesheet" type="text/css"> -->
 <link href="css/bootstrap-3.3.7.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="css/slider.css">
+
+
 <style type="text/css">
 	
-	
+.box_content {
+	background: #ffffff;
+	padding: 20px;
+	margin-bottom:20px 
+}
 
 
 .col-lg-6 {
+	
 -webkit-box-shadow: 
-	0px 6px 11px 0px rgba(186,186,186,0.65);
+	0px 6px 11px 0px rgba(186,186,186,0.65);	
 		
 -moz-box-shadow: 
 	0px 6px 11px 0px rgba(186,186,186,0.65);
 		
 box-shadow: 
 	0px 6px 11px 0px rgba(186,186,186,0.65); 
-
 	
 	}
+	
+	
 	
 </style>
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -46,52 +54,69 @@ box-shadow:
   <div class="row">
   
   <!-- Expert Database  -->
-    <div class="col-lg-6">
+    <div class="col-lg-5">
 	     <img src="images/Experts.jpg" class="img-responsive" alt="Experts Database">
+		<div class="box_content">
+	     
 		  <h2>Experts Database</h2>
 		  <p>Find an Expert Database, is where you can find Companies and Individuals in the area of data for financial inclusion.</p>
-	  
+	   
   	    
 	  	    <a href="http://i2ifacility.org/portal/Expert/" target="_blank"> Read more </a>
-	  	    
+      </div>
 	  	      
 	  	    </div>
+    <!-- Expert Database end  -->
 	  	    
-	<!-- Expert Database end  -->	    
+	  	    
+    <div class="col-lg-1"> </div>
+	  	    
+		    
 	  	    
 	  <!-- Datahack4FI -->
-	  <div class="col-lg-6">
+	  <div class="col-lg-5">
 	  	  <img src="images/Datahack4fi.jpg" class="img-responsive" alt="Datahack4FI">
+	  	  	<div class="box_content">
 	   <h2>Datahack4FI</h2>
 		  <p>There are eight country-level competitions. Winners from each of these will be selected to join the ultimate DataHack4FI competition 2017. </p>
 		  
     <a href="http://datahack4fi.org/" target="_blank"> Read more </a> </div>
          <!-- Datahack4FI end -->
-      
+	  </div>
   </div>
    <!-- Community row end -->
-  
+
   
     <!-- New community row -->
     <div class="row">
      
-     <!-- Datahack4FI end -->
-	  <div class="col-lg-6" >
+     <!-- Community -->
+	  <div class="col-lg-5" >
 	     <img src="images/GIS_Community.jpg" class="img-responsive" alt="GIS Community">
+	     
+	  	<div class="box_content">
 		  <h2>gis4FI Community</h2>
 		  <p>The geospatial data for financial inclusion (gis4FI) community aims to promote learning and sharing, catalyse improvements and support </p>
-	  
-      <a href="http://www.i2ifacility.org/Spatial_Data/" target="_blank"> Read more</a> </div>
+	
+      <a href="http://www.i2ifacility.org/Spatial_Data/" target="_blank"> Read more</a> 
+        </div>
+      </div>
+        <!-- Community END -->
       
-	  <div class="col-lg-6">
+      <div class="col-lg-1"> </div>
+      <!-- Discussion -->
+	  <div class="col-lg-5">
   	    <img src="images/Discussion.jpg" class="img-responsive" alt="Datahack4FI">
+  	    	<div class="box_content">
 	   <h2>Discussion Forum</h2>
 		  <p>General discussion forum for financial inclusion, free to join, use, and enjoy forever. Join today!</p>
 	  	
 	  	  <a href="http://i2ifacility.org/Forum/" target="_blank"> Read more</a>
-	  	
+	  	</div>
 	
 	  </div>
+	  
+	      <!-- Discussion End -->
   </div>
    <!-- New community row END -->
   
