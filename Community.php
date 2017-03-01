@@ -125,6 +125,43 @@ box-shadow:
   
   
   
+    <!-- New community row -->
+    <div class="row">
+     
+     <!-- Community -->
+	  <div class="col-lg-5" >
+	     <img src="images/Questionaire_design.jpg" class="img-responsive" alt="GIS Community">
+	     
+	  	<div class="box_content">
+		  <h2>Questionaire Design Tool</h2>
+		  <p>See how other questionaires asked a question or got that question answered, a taxonomy on questionnaire design. </p>
+	
+      <a href="https://invis.io/94AHM3HGT" target="_blank"> Read more</a> 
+        </div>
+      </div>
+        <!-- Community END -->
+      
+      <div class="col-lg-1"> </div>
+      <!-- Discussion -->
+	  <div class="col-lg-5">
+  	    <img src="images/FD_banner.jpg" class="img-responsive" alt="Datahack4FI">
+  	    	<div class="box_content">
+	   <h2>Financial Diaries</h2>
+		  <p>The financial diaries project  is a year-long household survey that examines financial management in poor households.</p>
+	  	
+	  	  <a href="#" target="_blank"> Read more</a>
+	  	</div>
+	
+	  </div>
+	  
+	      <!-- Discussion End -->
+  </div>
+   <!-- New community row END -->
+  
+  
+  
+  
+  
   
   
 </div>

@@ -675,7 +675,7 @@ Piyush holds an MPA from the Harvard Kennedy School of Government, a Bachelor of
  
     <div class="row">
       <div class="col-sm-6"> 
-      <H3>FinMark Trust</H3>
+      <H4>FinMark Trust</H4>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3586.6462392307694!2d28.12971595095394!3d-25.979639983457503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e956e3ecd3423af%3A0xadad49c93f4b94de!2sFinmark+Trust!5e0!3m2!1sen!2sza!4v1486980681171" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <br><br>
@@ -691,7 +691,7 @@ Tel: +27 11 315 9197<br>
  </div>
        <div class="row">
       <div class="col-sm-6">
-     <H3>Cenfri</H3>
+     <H4>Cenfri</H4>
      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3313.3271186406455!2d18.623429551111794!3d-33.855459580565004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc57517431becf%3A0xb602e69f03fc6860!2s99+Jip+De+Jager+Dr%2C+De+Bron%2C+Cape+Town%2C+7530!5e0!3m2!1sen!2sza!4v1486980774262" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
     
      <br><br>
