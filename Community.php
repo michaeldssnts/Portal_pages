@@ -8,7 +8,25 @@
 <!-- <link href="css/bootstrap-3.3.5.css" rel="stylesheet" type="text/css"> -->
 <link href="css/bootstrap-3.3.7.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="css/slider.css">
-<link rel="stylesheet" href="css/exported_components.css">
+<style type="text/css">
+	
+	
+
+
+.col-lg-6 {
+-webkit-box-shadow: 
+	0px 6px 11px 0px rgba(186,186,186,0.65);
+		
+-moz-box-shadow: 
+	0px 6px 11px 0px rgba(186,186,186,0.65);
+		
+box-shadow: 
+	0px 6px 11px 0px rgba(186,186,186,0.65); 
+
+	
+	}
+	
+</style>
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
@@ -28,9 +46,7 @@
   <div class="row">
   
   <!-- Expert Database  -->
-	  <div class="col-lg-6" style="padding: 15px; -webkit-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65);
--moz-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65);
-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65); ">
+    <div class="col-lg-6">
 	     <img src="images/Experts.jpg" class="img-responsive" alt="Experts Database">
 		  <h2>Experts Database</h2>
 		  <p>Find an Expert Database, is where you can find Companies and Individuals in the area of data for financial inclusion.</p>
@@ -44,14 +60,12 @@ box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65); ">
 	<!-- Expert Database end  -->	    
 	  	    
 	  <!-- Datahack4FI -->
-	  <div class="col-lg-6" style="padding: 15px; -webkit-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65);
--moz-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65);
-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65); ">
+	  <div class="col-lg-6">
 	  	  <img src="images/Datahack4fi.jpg" class="img-responsive" alt="Datahack4FI">
 	   <h2>Datahack4FI</h2>
 		  <p>There are eight country-level competitions. Winners from each of these will be selected to join the ultimate DataHack4FI competition 2017. </p>
 		  
-      <a href="http://datahack4fi.org/" target="_blank"> Read more </a> </div>
+    <a href="http://datahack4fi.org/" target="_blank"> Read more </a> </div>
          <!-- Datahack4FI end -->
       
   </div>
@@ -62,18 +76,14 @@ box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65); ">
     <div class="row">
      
      <!-- Datahack4FI end -->
-	  <div class="col-lg-6" style="padding: 15px;-webkit-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65);
--moz-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65);
-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65); ">
+	  <div class="col-lg-6" >
 	     <img src="images/GIS_Community.jpg" class="img-responsive" alt="GIS Community">
 		  <h2>gis4FI Community</h2>
 		  <p>The geospatial data for financial inclusion (gis4FI) community aims to promote learning and sharing, catalyse improvements and support </p>
 	  
       <a href="http://www.i2ifacility.org/Spatial_Data/" target="_blank"> Read more</a> </div>
       
-	  <div class="col-lg-6" style="padding: 15px; -webkit-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65);
--moz-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65);
-box-shadow: 0px 6px 11px 0px rgba(186,186,186,0.65); ">
+	  <div class="col-lg-6">
   	    <img src="images/Discussion.jpg" class="img-responsive" alt="Datahack4FI">
 	   <h2>Discussion Forum</h2>
 		  <p>General discussion forum for financial inclusion, free to join, use, and enjoy forever. Join today!</p>
